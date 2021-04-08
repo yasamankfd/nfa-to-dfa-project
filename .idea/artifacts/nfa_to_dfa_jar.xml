@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="nfa to dfa:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/nfa_to_dfa_jar</output-path>
+    <root id="archive" name="nfa to dfa.jar">
+      <element id="module-output" name="nfa to dfa" />
+    </root>
+  </artifact>
+</component>
